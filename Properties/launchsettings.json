@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "ntereksetims (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "ntereksetims (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
